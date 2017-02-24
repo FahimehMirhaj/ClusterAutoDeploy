@@ -1,4 +1,4 @@
-Ipackage clusterautodeploy;
+package clusterautodeploy;
 
 import java.util.ArrayList;
 import java.util.List;
